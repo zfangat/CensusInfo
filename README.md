@@ -1,5 +1,5 @@
 # CensusInfo
-<p>This is Zhong's project based on U.S. Census Bureau Geocoder API, the project is created with AngularJS, GoogleMap JavaScript API and Cordova. Cordova is a framework hat targets multiple mobile platforms: Android, iOS, Windows, and Windows Phone. </p>
+<p>This is Zhong's project based on U.S. Census Bureau Geocoder API, the project is created with AngularJS, GoogleMap JavaScript API and Cordova. Cordova is a framework that targets multiple mobile platforms: Android, iOS, Windows, and Windows Phone. </p>
 
 <p>You may double click the marker in the map to retrieve census and other public information provided by U.S. Census Bureau Geocoder API, also you could drag around the marker (the initial location is your phone location) and explore nearby area.</p>
 
