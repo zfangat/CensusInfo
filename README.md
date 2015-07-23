@@ -28,6 +28,6 @@ The www folder strcture:
 <p style="font:bold"><a href="https://play.google.com/store/apps/details?id=io.cordova.myapp0fe10991fb784f82a1de694ddadddd5c">
   <img alt="Android app on Google Play"
        src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png" />
-</a><a href="https://itunes.apple.com/us/app/your-census-infos/id1013770217?mt=8"><img alt="iOS app on iTune Store" height="60" width="203" src="images/AppStoreLogo.svg" /></a></p>
+</a><a href="https://itunes.apple.com/us/app/your-census-infos/id1013770217?mt=8"><img alt="iOS app on iTune Store" height="60" width="202" src="images/applestorelogo.png" /></a></p>
 <img alt="Screen Shot 1" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_1.png"><img alt="Screen Shot 2" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_2.png">
 <img alt="Screen Shot 3" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_3.png"><img alt="Screen Shot 4" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_4.png">
