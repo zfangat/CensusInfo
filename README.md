@@ -3,7 +3,6 @@
 
 <p>You may double click the marker in the map to retrieve census and other public information provided by U.S. Census Bureau Geocoder API, also you could drag around the marker (the initial location is your phone location) and explore nearby area.</p>
 
-<p>For question or support, please reach me at zfang AT gmail.com</p>
 <p style="font:bold"><a href="https://play.google.com/store/apps/details?id=io.cordova.myapp0fe10991fb784f82a1de694ddadddd5c">
   <img alt="Android app on Google Play"
        src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png" />
