@@ -1,0 +1,19 @@
+﻿html,
+
+/* body*/
+
+.mapCanvas {
+    margin: 0 auto;
+    border: 1px solid #0b0;
+    height: 480px;
+    width: 100%;
+}
+.angular-google-map-container {
+    height: 480px;
+    width: 100%;
+}
+
+.map-msg {
+    color:red;
+    text-align:center;
+}
