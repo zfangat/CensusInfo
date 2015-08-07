@@ -7,8 +7,8 @@
   <img alt="Android app on Google Play"
        src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png" />
 </a><a href="https://itunes.apple.com/us/app/your-census-infos/id1013770217?mt=8"><img alt="iOS app on iTune Store" height="60" width="202" src="images/applestorelogo.png" /></a></p>
-<img alt="Screen Shot 1" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_1.png"><img alt="Screen Shot 2" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_2.png">
-<img alt="Screen Shot 3" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_3.png"><img alt="Screen Shot 4" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_4.png">
+<img alt="Screen Shot 1" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_1.png">  <img alt="Screen Shot 2" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_2.png">
+<img alt="Screen Shot 3" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_3.png">  <img alt="Screen Shot 4" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_4.png">
 
 The www folder is the core component of Cordova project. After you create the Cordova project, you may replace the www folder with this one.
 
