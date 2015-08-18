@@ -15,8 +15,8 @@
 </a><a href="https://itunes.apple.com/us/app/your-census-infos/id1013770217?mt=8"><img alt="iOS app on iTune Store" height="60" width="202" src="images/applestorelogo.png" /></a></p>
 <img alt="Screen Shot 1" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_1.png">  <img alt="Screen Shot 2" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_2.png">
 <img alt="Screen Shot 3" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_3.png">  <img alt="Screen Shot 4" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_4.png">
-<img alt="Screen Shot 3" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_5.png"> 
-The www folder is the core component of Cordova project. After you create the Cordova project, you may replace the www folder with this one.
+<img alt="Screen Shot 5" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_5.png"> 
+<p>The www folder is the core component of Cordova project. After you create the Cordova project, you may replace the www folder with this one.
 
 The www folder strcture:
 <pre>
@@ -32,3 +32,4 @@ The www folder strcture:
     frameworks (additional directive beyond ionic or angularjs)
     services
 </pre>
+</P>
