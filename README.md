@@ -1,15 +1,21 @@
 # CensusInfo
-<p>This is Zhong's project based on U.S. Census Bureau Geocoder API, the project is created with AngularJS, GoogleMap JavaScript API and Cordova. Cordova is a framework that targets multiple mobile platforms: Android, iOS, Windows, and Windows Phone. </p>
-
-<p>You may double click the marker in the map to retrieve census and other public information provided by U.S. Census Bureau Geocoder API, also you could input address or drag around the marker (the initial location is your phone location) and explore nearby area.</p>
+<p>Have you ever think about to explore your neighbour such as household income, house value, rent paid every month, or even how many minutes spend on commute?</p>
+<p>This product provide a quick and simple way to retrieve those information on interactive map. You could drag around the marker or input any address, double click the marker will retrieve related information. You also could filter on nationwide, state, county and tract level. It uses multiple Census Bureau API providing the following information:</p>
+<ul>
+<li>1) Sex, Age, Race and Birth Place</li>
+<li>2) Employment Status, Commute Time, Occupation</li>
+<li>3) House Type, Year Built, House Value, Monthly Mortgage Payment, Monthly Rent</li>
+<li>4) Household Income, Income Per Capita, Poverty by Race</li>
+<li>5)Educational Attainment, School Enrolment</li>
+</ul>
 
 <p style="font:bold"><a href="https://play.google.com/store/apps/details?id=io.cordova.myapp0fe10991fb784f82a1de694ddadddd5c">
   <img alt="Android app on Google Play"
        src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png" />
 </a><a href="https://itunes.apple.com/us/app/your-census-infos/id1013770217?mt=8"><img alt="iOS app on iTune Store" height="60" width="202" src="images/applestorelogo.png" /></a></p>
-<img alt="Screen Shot 1" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_1.png">  <img alt="Screen Shot 2" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_2.png">
-<img alt="Screen Shot 3" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_3.png">  <img alt="Screen Shot 4" style="border:2px solid black; margin:5px" height="500px" width="281px" src="images/census_4.png">
-
+<img alt="Screen Shot 1" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_1.png">  <img alt="Screen Shot 2" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_2.png">
+<img alt="Screen Shot 3" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_3.png">  <img alt="Screen Shot 4" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_4.png">
+<img alt="Screen Shot 3" style="border:2px solid black; margin:5px" height="720px" width="405px" src="images/census_5.png"> 
 The www folder is the core component of Cordova project. After you create the Cordova project, you may replace the www folder with this one.
 
 The www folder strcture:
